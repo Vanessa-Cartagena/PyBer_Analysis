@@ -21,3 +21,5 @@ Below are the results from the analysis of the ride-sharing data among the diffe
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/105958160/178301162-47989e7b-e070-45a4-84cc-2de61f62819f.png)
 
 ## Summary 
+
+When comparing the study of the various ride-sharing city types, there are various elements to take into account, such the trip time, population, city size, etc. Riders from rural areas might have to drive further to reach their destinations than riders from urban areas, where the majority of needs are met nearby. Because there is more parking available, there is less traffic, and there is less access to public transportation in a rural area than in an urban metropolis, people are more likely to own vehicles. That might also be the cause of the increased average fare. For a more fair price, businesses would need to take these variables into account.
